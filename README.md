@@ -1,4 +1,5 @@
 🎓 JavaScript Quiz!
+
 A fun and interactive quiz application built with HTML, CSS, and JavaScript. Test your JavaScript knowledge with numbered questions and enjoy a modern, responsive UI with a gradient background and a reset option! 🌈📝
 
 🖼️ Screenshot
@@ -20,19 +21,19 @@ A fun and interactive quiz application built with HTML, CSS, and JavaScript. Tes
 
 🔗 Live Demo
 Check out the live application here:
+
 🌐 JavaScript Quiz Live
+
 https://madhumithra-r.github.io/javascript-quiz/
 
 🚀 How to Use
 
 Clone the Repository:git clone https://github.com/Madhumithra-R/javascript-quiz.git
+
 cd "D:\APP FOLDER\Desktop\Projects\javascript-quiz"
 
-
 Run the App:
-Open index.html in your browser (Chrome, Firefox, Edge, etc.) 🌐
+
+Open index.html in your browser (Chrome, Firefox, Edge, etc.)🌐
 
 
-No packages published
-Footer
-© 2025 GitHub, Inc.
